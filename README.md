@@ -3,7 +3,7 @@
 #### JAVA CLI MINI PROJECT : 인터넷 뱅킹
 <img src="https://github.com/121Mbp/minibank/assets/11451648/b78828a1-d148-4c78-a53f-412bda171328" width="30%"></img>
 ###### 2023.08.16 ~ 2023.08.25
-###### [발표 PPT](https://docs.google.com/presentation/d/1iArsZOWC5DVL1hXV3DTb-NvOeh-8Ce4lMrXzLkyKK7E/edit?usp=sharing)
+###### [발표 PPT](https://docs.google.com/presentation/d/e/2PACX-1vSeV5xd5uLX2CP8FdMsfD6Vxp5Sbxp1iZQs1uwEi0lOg9WvLPtZJGWylQUxLsDV_2frxw0cAW-G4cUp/pub?start=false&loop=false&delayms=3000)
 <br>
 
 ## Getting Started
